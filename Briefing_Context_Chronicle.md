@@ -1,7 +1,7 @@
 # Briefing Context Chronicle
 ## Operation Epic Fury — Framework-Driven Analytical Record
 **Project:** Hegemonic Rent-Extraction and the Structural Logic of Paradigm Transition  
-**Conflict start:** February 28, 2026 | **Chronicle last updated:** March 28, 2026 (Day 29)
+**Conflict start:** February 28, 2026 | **Chronicle last updated:** March 29, 2026 (Day 29)
 
 ---
 
@@ -30,6 +30,7 @@ Full briefing files (HTML/PDF/MD) exist as archival records but are not needed f
 | Day 23 | March 23, 2026 | MD artifact | Chat `750f52af` only | ⚠ Chat-only |
 | Day 25 | March 25, 2026 | MD artifact | Chat `c692f453` only | ⚠ Chat-only |
 | Day 27 | March 27, 2026 | Summary only | Chat `82fd93da` only | ⚠ Chat-only |
+| Day 29 | March 29, 2026 | `Geopolitical_Briefing_March_29_2026_Day_29.md` | Project files | ✅ Archived |
 
 ---
 
@@ -56,6 +57,7 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Day 23 | Mar 23 | 27% | 6% | 67% | Trump 48hr ultimatum; Diego Garcia strike (ICBM range revealed); Araghchi deploys Kindleberger; nuclear opacity erosion begins |
 | Day 25 | Mar 25 | 26% | 7% | 67% | 82nd Airborne deployment confirmed; Kharg planning; force-posture dimension of ratchet formalized |
 | Day 27 | Mar 27 | 25% | 7% | 68% | Iran institutionalizes Hormuz sovereignty via parliamentary legislation; no endgame visible |
+| Day 29 | Mar 29 | 26% | 6% | 68% | Houthis enter war (Day 28 missiles at Israel); Tehran toll booth yuan-denominated; Trump 15-point plan rejected; April 6 deadline; gold at $5,070 approaching re-breach |
 
 **Notable inflections:**  
 - **S1 peak: Day 15 (30%)** — China optimal positioning, shuttle diplomacy, rare earth leverage
@@ -137,6 +139,19 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Mar 27 / Day 27 | **Iran parliament legislates Hormuz sovereignty** — formal legal claim to strait administration | Discriminatory Hormuz converts from tactical military measure to institutionalized legal architecture; Acharya multiplex governance node hardening |
 | Mar 27 | No ceasefire architecture visible; deadline extensions accumulating | S3 dominant: neither side has endgame; both sides' domestic politics preclude acknowledgment of stalemate |
 
+### Days 27–29
+| Date / Day | Event | Framework Significance |
+|---|---|---|
+| Mar 28 / Day 28 | **Houthis enter the war** — first ballistic missile salvo at Israel (IDF intercepts) | Dual-chokepoint threat PARTIALLY ACTIVATED; 2025 ceasefire constraint broken; Bab al-Mandeb still unexecuted |
+| Mar 25 / Day 25 | **Iran rejects Trump's 15-point peace plan** — calls it "maximalist, unreasonable" | No deal corridor exists; Larijani's absence confirmed structurally |
+| Mar 25 | **Iran issues 5 counter-conditions** including "international recognition of Hormuz authority" | Converts Hormuz sovereignty claim from unilateral military action to bilateral negotiating demand; non-starter for US |
+| Mar 26 | **Trump extends energy-plant deadline to April 6** | Third ultimatum-extension cycle; threat credibility degrading |
+| Mar 26–29 | **Tehran Toll Booth operational** — 25+ vessels paying yuan-denominated fees to transit IRGC-controlled passage; ~28M barrels / ~$2B IRGC revenue since Feb 28 | Acharya multiplex governance node operationalized; Hormuz running as yuan-denominated revenue architecture under bombardment; non-transferability thesis confirmed |
+| Mar 29 | **USS Gerald R. Ford sidelined at Souda Bay, Crete** — laundry fire; approaching 11-month deployment record | Force-posture ratchet: non-combat attrition on primary carrier; Abraham Lincoln now sole carrier on station |
+| Mar 29 | **THAAD interceptor gap confirmed** — no new deliveries until April 2027; 25% global inventory expended in June 2025 war; South Korea battery transferred to Middle East | Pacific hollowing strategic-level confirmation; every interceptor fired is irreplaceable within conflict timeline |
+| Mar 29 | **Gold at ~$5,070** | Re-approaching $5,100 de-dollarization threshold; Brent at $112; WTI breached $100 intraday |
+| Mar 29 | **Domestic Iranian support for nuclear weapons growing** (Israel HaYom) | Fourth mechanism of nuclear opacity erosion beyond Day 23 three-point mechanism; war aimed at preventing nukes generating constituency for them |
+
 ---
 
 | Indicator | Pre-War (Feb 27) | Peak | Mar 27 | Threshold / Significance |
@@ -173,6 +188,9 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Nuclear opacity erosion — three-point mechanism | Mar 23 | Dimona struck + Diego Garcia (ICBM range) + enriched uranium "under the rubble" = directional erosion of deterrence opacity |
 | Simulacrum-Capacity Ratchet force-posture dimension | Mar 25 | 82nd Airborne redeployed from Pacific; material military capacity robbed from one theater to maintain appearance in another |
 | Hormuz institutionalized as legal sovereignty claim | Mar 27 | Iranian parliament legislates Hormuz administration; converts military tactic into permanent institutional architecture |
+| Tehran Toll Booth — Hormuz as yuan-denominated revenue node | Mar 13+ (confirmed Day 29) | IRGC charging yuan tolls; 25+ vessels paid; ~$2B revenue since Feb 28; Acharya multiplex governance node operationally confirmed; non-transferability thesis confirmed under bombardment |
+| Houthi dual-chokepoint PARTIAL activation | Mar 28 | Missiles at Israel; 2025 ceasefire constraint broken; Bab al-Mandeb still unexecuted — calibrated escalation, not maximum response |
+| THAAD Pacific hollowing at strategic level | Mar 29 | South Korea THAAD transferred; 25% global inventory expended; 2027 delivery gap; Pacific defense posture degraded |
 | Test | When | Evidence |
 |---|---|---|
 | Iranian state fragmentation on Libya model | Mar 1 onward | State coherence holding: Araghchi presenting internationally, Pezeshkian conducting functions, diplomatic engagement continuing |
@@ -264,14 +282,16 @@ Priority watchlist entering Day 28+:
 
 | Variable | Why Critical | Threshold |
 |---|---|---|
-| **Kharg Island oil infrastructure** | Planning confirmed Mar 25; Gulf-state cascade trigger; most consequential unexecuted escalation | First strike = financial cascade; Gulf states forced off fence |
-| **Xi-Trump summit** | Hormuz precondition; if proceeds, China converts crisis to diplomatic capital at scale | Any confirmed date or cancellation |
-| **Mojtaba public appearance** | Still statement-only since Mar 12; injury/command status unresolved | Any verified video = Zen Bear question answered |
-| **Houthi activation** | Dual-chokepoint still unexecuted; 2025 ceasefire structural constraint may be eroding | Any Red Sea attack = immediate market signal |
-| **Iran blockchain/CBDC infrastructure** | Falsification test for rent-avoidance durability under state-destruction conditions | Any reporting on Borna/Kuknos operational status |
-| **Gold re-breach $5,100** | March CPI data due; war premium vs. structural signal question | Fed decision + March CPI |
-| **82nd Airborne deployment trigger** | Escalation to ground combat = qualitative shift in US commitment and Pacific exposure | Any deployment order |
-| **Iran Treasury bond threat operationalization** | Ghalibaf rhetoric → action = conflict extends into dollar architecture domain | Any Iranian financial market action |
+| **Bab al-Mandeb / Red Sea activation** | Houthis entered war Mar 28 (missiles at Israel); Red Sea shipping not yet targeted; dual-chokepoint partially live | Any Houthi Red Sea shipping attack = $130+ Brent; Goldman/JPMorgan 20–25% probability |
+| **April 6 deadline** | Trump's third ultimatum; energy plant strikes threatened; Iran 15-point plan rejected; 5 counter-conditions non-starters | Execution = major escalation; further extension = negotiation simulacrum confirmed |
+| **Kharg oil infrastructure / seizure** | Military sites struck Mar 13 (oil spared); Marines in theater; Trump threatening pipeline strikes; seizure scenario active | First oil strike = Gulf-state cascade; seizure attempt = ground war |
+| **Xi-Trump summit** | Delayed ~6 weeks; China gaining leverage; Hormuz precondition remains | Any confirmed new date or cancellation |
+| **Mojtaba public appearance** | Not seen since Mar 12; Day 29 = 17 days absent | Any verified video = Zen Bear question answered |
+| **Gold re-breach $5,100** | Gold at $5,070 — approaching threshold; Brent $112 | March CPI data |
+| **Iran nuclear constituency** | Domestic support for nuclear weapons growing; Mojtaba hasn't rejected fatwa | Any Iranian official statement on nuclear weapons policy |
+| **Iran blockchain/CBDC infrastructure** | Falsification test for rent-avoidance durability | Any reporting on Borna/Kuknos operational status |
+| **Iran Treasury bond threat operationalization** | Ghalibaf rhetoric; no action since Day 23 | Any Iranian financial market action |
+| **USS Ford return / Bush deployment** | Ford sidelined at Souda Bay; Lincoln sole carrier on station | Ford return order or Bush deployment order |
 
 ---
 
@@ -318,6 +338,12 @@ Priority watchlist entering Day 28+:
 | Conditional provision as cartel governance (Hormuz veto power) | Mar 26 | **New Item 16 — add to Notebook** |
 | Sachs as defector / ideological fracture preceding military defeat | Mar 27 | **Cross-framework connection — add to Section II** |
 | Israel commitment device / fait accompli mechanism | Mar 27 | **New Item or cross-framework — add** |
+| Tehran Toll Booth as yuan-denominated multiplex revenue node | Day 29 | **Update Item 16** (Conditional Provision as Cartel Governance) — add operational confirmation + yuan denomination as Hudson/Acharya intersection |
+| Dual Simulacrum in Negotiation | Day 29 | **New Item candidate** — US and Iran both performing "talks" for domestic audiences while no deal corridor exists; ratchet logic extended into diplomatic domain |
+| Simulacrum-Capacity Ratchet — deadline extension as fifth dimension | Day 29 | **Update Item 3** — ultimatum → extension → new ultimatum as ratchet tick; threat inflation without execution |
+| Ford non-combat sidelined — maintenance sub-dimension of force-posture ratchet | Day 29 | **Update Item 3** — prolonged overdeployment generates non-combat attrition invisible to narrative layer |
+| Nuclear opacity erosion — fourth mechanism (domestic constituency) | Day 29 | **Update Item 10** — domestic Iranian support for nuclear weapons growing; war generating constituency for the thing it aimed to prevent |
+| Houthi rational entry timing as Olson/Zen Bear intersection | Day 29 | **Cross-framework note** — free-rider calculation inside ideological coalition; calibrated entry at deadline pressure point |
 
 ---
 
