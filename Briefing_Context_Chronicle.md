@@ -1,7 +1,7 @@
 # Briefing Context Chronicle
 ## Operation Epic Fury — Framework-Driven Analytical Record
 **Project:** Hegemonic Rent-Extraction and the Structural Logic of Paradigm Transition  
-**Conflict start:** February 28, 2026 | **Chronicle last updated:** March 28, 2026 (Day 29)
+**Conflict start:** February 28, 2026 | **Chronicle last updated:** March 30, 2026 (Day 30)
 
 ---
 
@@ -30,6 +30,7 @@ Full briefing files (HTML/PDF/MD) exist as archival records but are not needed f
 | Day 23 | March 23, 2026 | MD artifact | Chat `750f52af` only | ⚠ Chat-only |
 | Day 25 | March 25, 2026 | MD artifact | Chat `c692f453` only | ⚠ Chat-only |
 | Day 27 | March 27, 2026 | Summary only | Chat `82fd93da` only | ⚠ Chat-only |
+| Day 30 | March 30, 2026 | MD briefing | Chronicle (this session) | ✅ Chronicle-integrated |
 
 ---
 
@@ -56,6 +57,7 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Day 23 | Mar 23 | 27% | 6% | 67% | Trump 48hr ultimatum; Diego Garcia strike (ICBM range revealed); Araghchi deploys Kindleberger; nuclear opacity erosion begins |
 | Day 25 | Mar 25 | 26% | 7% | 67% | 82nd Airborne deployment confirmed; Kharg planning; force-posture dimension of ratchet formalized |
 | Day 27 | Mar 27 | 25% | 7% | 68% | Iran institutionalizes Hormuz sovereignty via parliamentary legislation; no endgame visible |
+| Day 30 | Mar 30 | 27% | 6% | 67% | Houthis enter war (Mar 28); yuan-denominated Hormuz toll operational; Islamabad Suez Canal model; nuclear fatwa collapse in elite opinion |
 
 **Notable inflections:**  
 - **S1 peak: Day 15 (30%)** — China optimal positioning, shuttle diplomacy, rare earth leverage
@@ -137,19 +139,36 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Mar 27 / Day 27 | **Iran parliament legislates Hormuz sovereignty** — formal legal claim to strait administration | Discriminatory Hormuz converts from tactical military measure to institutionalized legal architecture; Acharya multiplex governance node hardening |
 | Mar 27 | No ceasefire architecture visible; deadline extensions accumulating | S3 dominant: neither side has endgame; both sides' domestic politics preclude acknowledgment of stalemate |
 
+### Days 27–30
+| Date / Day | Event | Framework Significance |
+|---|---|---|
+| Mar 27–29 | **Arak heavy water, Ardakan yellowcake, Bushehr nuclear plant struck** — SPND research head Ali Pouladvand killed; nuclear scientist Mohammad Reza Kia killed | Nuclear program decapitation escalating; counterproductively rationalizes Iranian sprint calculation |
+| Mar 28 / Day 28 | **Houthis enter war** — ballistic missiles on southern Israel | **Dual-chokepoint threshold crossed**; Olson: US forced into resource-allocation bind; Red Sea still open but Bab al-Mandeb threatened |
+| Mar 28 | Iran strikes Prince Sultan Air Base (Saudi Arabia) — second attack that week; 15 US wounded | Gulf-state consent architecture under continued kinetic stress |
+| Mar 29 | **Ghalibaf rejects negotiations** — "Iran cannot be forced into submission"; reiterates US bond holders as legitimate targets | Ghalibaf financial deterrence signaling hardening from threat to political commitment |
+| Mar 29 | **Iran Foreign Ministry**: "No negotiations until Iran's goals are achieved" | Diplomacy corridor structurally closed; counter-proposal = Hormuz sovereignty + US war reparations |
+| Mar 29 | **Islamabad track opens**: Pakistan hosts Saudi Arabia, Turkey, Egypt — **Egypt proposes Suez Canal-style fee structure for Hormuz**; Turkey-Egypt-Saudi consortium to manage oil flows; China "fully supports" | **Acharya multiplex governance crystallizing**: international community beginning to legitimize Iranian Hormuz administration as institutional fact, not illegal blockade |
+| Mar 29 | Iran allows 20 Pakistani-flagged vessels through Hormuz as confidence-building measure | Discriminatory Hormuz as relationship-differentiated access — multiplex governance node operational |
+| Mar 29 | US-Israeli strikes on **Bandar Khamir** (southern Iran) — 5 killed; Iranian missile hits chemical plant in Ne'ot Hovav, Israel | War continues below Kharg threshold; Israel multifront preparation confirmed |
+| Mar 29–30 | **Nuclear fatwa collapse in elite/public opinion**: Trita Parsi — "The nuclear fatwa is dead"; Araghchi uncertain about Mojtaba's "jurisprudential stance" | Rent-avoidance outer boundary: nuclear sprint becoming rational calculation under state-destruction conditions |
+| Mar 30 | **IRGC yuan-denominated Hormuz toll** confirmed operational — 26 ships since March 13; payment in Chinese yuan required | **Hudson: dollar settlement displaced at strategic chokepoint**; Arrighi: material energy accumulation re-denominated; Ghalibaf financial deterrence translating from threat to architecture |
+| Mar 30 | **Brent crude $112.57** (+51% monthly — largest monthly gain on record); WTI briefly crosses $100; Gold $4,524 | Stagflation architecture deepening; Fed still boxed; gold recovery from PPI pullback, below re-breach threshold |
+| Mar 30 | **Xi-Trump summit now mid-May** (delayed from March 31) | China holds scheduling leverage; every delay deepens yuan-denominated energy architecture; China winning without firing a shot |
+
 ---
 
-| Indicator | Pre-War (Feb 27) | Peak | Mar 27 | Threshold / Significance |
+| Indicator | Pre-War (Feb 27) | Peak | Mar 30 | Threshold / Significance |
 |---|---|---|---|---|
-| Brent Crude | ~$65/bbl | ~$120 (South Pars spike) | ~$115 | $120+ = stagflation threshold; Fed boxed |
-| Gold (XAU/USD) | ~$3,200 | **$5,418 (Jan 29)** | ~$3,100 (PPI pullback) | $5,100–5,400 = de-dollarization signal; **BREACHED pre-war** |
-| Hormuz daily transits | 153/day | — | ~8/day | Full closure legislated Mar 27; tiered access ended |
-| Gulf oil production | 20 mb/d | — | ~9 mb/d curtailed | IEA: largest supply disruption in oil market history |
+| Brent Crude | ~$65/bbl | ~$120 (South Pars spike) | **$112.57** (+51% monthly — largest monthly gain on record) | $120+ = stagflation threshold; WTI briefly crossed $100 intraday |
+| Gold (XAU/USD) | ~$3,200 | **$5,418 (Jan 29)** | ~$4,524 (recovering from PPI pullback) | $5,100–5,400 = de-dollarization signal; **BREACHED pre-war**; re-breach pending March CPI |
+| Hormuz daily transits | 153/day | — | ~8/day + IRGC yuan toll (26 ships since Mar 13) | Parliamentary closure + yuan-denominated toll = new financial architecture |
+| Gulf oil production | 20 mb/d | — | ~9 mb/d curtailed | IEA: "greatest global energy security challenge in history" |
 | US munitions burn | — | $5.6B in first 2 days (WaPo) | — | Pacific theater hollowed for Middle East redeployment |
-| US KIA | 0 | — | 23 | |
+| US KIA | 0 | — | 23+ (15 wounded Prince Sultan Mar 28) | |
 | Iran military KIA | 0 | — | 6,200+ (Hengaw est.) | |
 | Iranian missile launchers | ~100% | — | <20% remaining | Production at zero (JINSA); attrition accelerating |
-| 82nd Airborne deployment | 0 | — | Confirmed Mar 25 | Force-posture ratchet: Pacific capacity transferred |
+| 82nd Airborne deployment | 0 | — | On alert, undeployed | Ground combat threshold not yet crossed; Pacific hollowing continues |
+| Houthi activation | Dormant | — | **Entered war Mar 28** — missiles on Israel | Dual-chokepoint threshold crossed; Red Sea interdiction not yet confirmed |
 
 ---
 
@@ -173,6 +192,10 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Nuclear opacity erosion — three-point mechanism | Mar 23 | Dimona struck + Diego Garcia (ICBM range) + enriched uranium "under the rubble" = directional erosion of deterrence opacity |
 | Simulacrum-Capacity Ratchet force-posture dimension | Mar 25 | 82nd Airborne redeployed from Pacific; material military capacity robbed from one theater to maintain appearance in another |
 | Hormuz institutionalized as legal sovereignty claim | Mar 27 | Iranian parliament legislates Hormuz administration; converts military tactic into permanent institutional architecture |
+| **Dual-chokepoint threshold crossed** | Mar 28 | Houthis enter war; ballistic missiles on Israel; Bab al-Mandeb now in play simultaneously with Hormuz |
+| **Yuan-denominated Hormuz toll — operational** | Mar 30 | IRGC running tolled passage in Chinese yuan; 26 ships since March 13; Hudson dollar displacement at strategic chokepoint |
+| **Islamabad Suez Canal model — international legitimization of Iranian Hormuz administration** | Mar 29 | Egypt proposes Suez Canal fee structure; Turkey-Egypt-Saudi consortium discussed; China "fully supports"; Iran allowing preferential access by diplomatic relationship |
+| **Nuclear fatwa collapse in elite/public opinion** | Mar 29–30 | Parsi: "fatwa is dead"; Araghchi uncertain on Mojtaba's stance; public opinion shifted; rent-avoidance outer boundary approaching |
 | Test | When | Evidence |
 |---|---|---|
 | Iranian state fragmentation on Libya model | Mar 1 onward | State coherence holding: Araghchi presenting internationally, Pezeshkian conducting functions, diplomatic engagement continuing |
@@ -223,7 +246,7 @@ Items flagged during briefing cycle for incorporation into the main Analytical N
 | Supreme Leader | Mar 9 | Mojtaba confirmed under IRGC pressure; unseen publicly since Mar 12 statement via anchor |
 | Diplomatic interlocutor | Mar 17 | **Eliminated** — Larijani assassinated; Araghchi is FM but cannot command IRGC; no functional signatory exists |
 | Military posture | Day 27 | Missile launcher capacity <20%; production at zero; ICBM-range capability confirmed (Diego Garcia Mar 23) |
-| Negotiating position | Mar 27 | No ceasefire sought; Hormuz legislated; Treasury bond threat widened; prepared for indefinite attrition |
+| Negotiating position | Mar 30 | **Hardened**: "No negotiations until goals achieved"; rejected US 15-point plan; counter-proposal = Hormuz sovereignty + US war reparations |
 | Nuclear material | Mar 23 | 440 kg enriched material "under the rubble"; Dimona struck; nuclear opacity three-point erosion underway |
 | Hormuz administration | Mar 27 | **Full closure legislated** — parliamentary sovereignty claim; tiered access phase ended |
 
@@ -246,8 +269,10 @@ Items flagged during briefing cycle for incorporation into the main Analytical N
 | Variable | Last Updated | Status |
 |---|---|---|
 | Posture | Day 27 | Shuttle diplomacy continuing; rare earth ban active; Xi summit pending |
-| Xi summit | Mar 27 | Hormuz reopening still demanded as precondition; China holds scheduling leverage |
-| Assessment | Day 27 | Free-rider executing at scale; S1 pathway does not require Iranian survival |
+| Xi summit | Mar 30 | **Now mid-May** (delayed from Mar 31); China holds scheduling leverage; every week deepens yuan-denominated architecture |
+| Yuan toll | Mar 30 | IRGC running yuan-denominated Hormuz toll; China-bound vessels transiting preferentially; $2B ghost fleet revenue since war began |
+| Islamabad track | Mar 30 | China "fully supports" Pakistan initiative; Suez Canal model advances China's institutional positioning regardless of war outcome |
+| Assessment | Day 30 | Free-rider executing at civilizational scale; yuan toll + Islamabad track = S1 infrastructure hardening under fire |
 
 ### Gulf States (collective)
 | Variable | Last Updated | Status |
@@ -267,7 +292,7 @@ Priority watchlist entering Day 28+:
 | **Kharg Island oil infrastructure** | Planning confirmed Mar 25; Gulf-state cascade trigger; most consequential unexecuted escalation | First strike = financial cascade; Gulf states forced off fence |
 | **Xi-Trump summit** | Hormuz precondition; if proceeds, China converts crisis to diplomatic capital at scale | Any confirmed date or cancellation |
 | **Mojtaba public appearance** | Still statement-only since Mar 12; injury/command status unresolved | Any verified video = Zen Bear question answered |
-| **Houthi activation** | Dual-chokepoint still unexecuted; 2025 ceasefire structural constraint may be eroding | Any Red Sea attack = immediate market signal |
+| **Houthi Red Sea maritime interdiction** | **Mar 28: missiles on Israel — THRESHOLD CROSSED**; 2025 ceasefire constraint collapsed | Next: maritime interdiction vs. single signaling shot; any Red Sea shipping attack = immediate market signal |
 | **Iran blockchain/CBDC infrastructure** | Falsification test for rent-avoidance durability under state-destruction conditions | Any reporting on Borna/Kuknos operational status |
 | **Gold re-breach $5,100** | March CPI data due; war premium vs. structural signal question | Fed decision + March CPI |
 | **82nd Airborne deployment trigger** | Escalation to ground combat = qualitative shift in US commitment and Pacific exposure | Any deployment order |
@@ -318,6 +343,11 @@ Priority watchlist entering Day 28+:
 | Conditional provision as cartel governance (Hormuz veto power) | Mar 26 | **New Item 16 — add to Notebook** |
 | Sachs as defector / ideological fracture preceding military defeat | Mar 27 | **Cross-framework connection — add to Section II** |
 | Israel commitment device / fait accompli mechanism | Mar 27 | **New Item or cross-framework — add** |
+| Yuan-denominated Hormuz toll as operational de-dollarization | Day 30 | **Update Item 12 (Ghalibaf Financial Deterrence)** — threat has become operational architecture; Hudson dollar displacement at chokepoint level |
+| Islamabad Suez Canal model — multiplex governance from below | Day 30 | **Flag for Acharya section** — international community legitimizing Iranian Hormuz administration; "order without hegemony" instantiated at global energy chokepoint |
+| Rent-avoidance outer boundary — nuclear decision | Day 30 | **Flag for methodological chapter** — nuclear sprint under existential threat is a different decision calculus; boundary condition clause needed; scope condition or falsification? |
+| Houthi activation as Olson Case 2 | Day 30 | **Flag for Olson section** — 2025 ceasefire was free-rider optimization; collapse of constraint on Day 29 requires explanation; autonomous vs. IRGC-coordinated decision has different framework implications |
+| Diplomatic ratchet — fifth dimension of Simulacrum-Capacity Ratchet | Day 30 | **Update Item 3** — each unexecuted ultimatum degrades credibility of the next; ratchet operating in diplomatic credibility dimension, not just narrative/domestic/bilateral/force-posture |
 
 ---
 
