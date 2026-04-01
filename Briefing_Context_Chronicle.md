@@ -235,6 +235,10 @@ Items flagged during briefing cycle for incorporation into the main Analytical N
 | Gold threshold breach — $5,418 on January 29 | Day 19/20 | **Log in Notebook** as empirical confirmation |
 | Simulacrum ratchet domestic dimension — FCC threats, information management costs | Day 17 | **Flag for ratchet draft section** |
 | Colonial salvation offer mechanism — ideological structure | Day 15 | Formalized in Day 15 briefing; needs Notebook entry |
+| **Tripartite inflation/deflation/hyperinflation differentiation by debt structure (Item 17)** | Hudson/Keen Graeber Institute, Mar 31 | **Logged in Notebook** — connects yuan toll to Global South circuit-breaker mechanism |
+| **Simulacrum-Capacity Ratchet — epistemic dimension** | Hudson/Keen Graeber Institute, Mar 31 | **Logged in Notebook** — added to Item 3; resolves Hudson/Keen intentionality disagreement |
+| **Energy-GDP isomorphism (Keen) — empirical grounding for Kindleberger** | Hudson/Keen Graeber Institute, Mar 31 | **Logged in Notebook** — added to Section III Item 2 |
+| **Fertilizer-famine chain as Turchin accelerant** | Hudson/Keen Graeber Institute, Mar 31 | **Logged in Notebook** — integrated into Item 17; Turchin-Polanyi-Kindleberger convergence on subsistence layer |
 
 ---
 
