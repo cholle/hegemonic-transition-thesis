@@ -1,7 +1,7 @@
 # Briefing Context Chronicle
 ## Operation Epic Fury — Framework-Driven Analytical Record
 **Project:** Hegemonic Rent-Extraction and the Structural Logic of Paradigm Transition  
-**Conflict start:** February 28, 2026 | **Chronicle last updated:** March 30, 2026 (Day 30)
+**Conflict start:** February 28, 2026 | **Chronicle last updated:** April 1, 2026 (Day 32)
 
 ---
 
@@ -31,6 +31,7 @@ Full briefing files (HTML/PDF/MD) exist as archival records but are not needed f
 | Day 25 | March 25, 2026 | MD artifact | Chat `c692f453` only | ⚠ Chat-only |
 | Day 27 | March 27, 2026 | Summary only | Chat `82fd93da` only | ⚠ Chat-only |
 | Day 30 | March 30, 2026 | MD briefing | Chronicle (this session) | ✅ Chronicle-integrated |
+| Day 32 | April 1, 2026 | HTML briefing | Project files + outputs | ✅ Chronicle-integrated |
 
 ---
 
@@ -58,11 +59,12 @@ Three scenarios tracked across all briefings. Probabilities reflect synthesized 
 | Day 25 | Mar 25 | 26% | 7% | 67% | 82nd Airborne deployment confirmed; Kharg planning; force-posture dimension of ratchet formalized |
 | Day 27 | Mar 27 | 25% | 7% | 68% | Iran institutionalizes Hormuz sovereignty via parliamentary legislation; no endgame visible |
 | Day 30 | Mar 30 | 27% | 6% | 67% | Houthis enter war (Mar 28); yuan-denominated Hormuz toll operational; Islamabad Suez Canal model; nuclear fatwa collapse in elite opinion |
+| Day 32 | Apr 1 | 29% | 5% | 66% | Trump "exit without deal" signal; S1 ↑ (China wins without firing); S2 ↓ (occupation narrative contradicted by exit rhetoric); Kuwait airport burning; Houthis fire 3 barrages daily; Trump primetime address tonight; April 6 deadline active |
 
 **Notable inflections:**  
-- **S1 peak: Day 15 (30%)** — China optimal positioning, shuttle diplomacy, rare earth leverage
+- **S1 peak: Day 15 (30%)** — China optimal positioning, shuttle diplomacy, rare earth leverage; matched Day 32 (29%)
 - **S3 peak: Day 20/27 (68–69%)** — Larijani eliminated, South Pars, self-consumption, Hormuz legislated
-- **S2 trough: Day 23 (6%)** — Diego Garcia/ICBM range revelation + coalition incoherence = omnipotence illusion fully punctured
+- **S2 trough: Day 32 (5%)** — exit rhetoric + Vance dissent + 36% approval + NATO airspace denial = occupation model structurally implausible
 - **Gold threshold breach: January 29, 2026** — $5,418 crossed the $5,100–5,400 de-dollarization signal band before the war began; PPI-driven pullback to $4,717 by Day 20 does not reverse the structural significance
 
 ---
