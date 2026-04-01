@@ -1,7 +1,7 @@
 # Analytical Notebook
 ## Cross-Framework Inversions, Original Contributions, Empirical Tests, and Open Questions
 **Project:** Hegemonic Rent-Extraction and the Structural Logic of Paradigm Transition  
-**Last updated:** March 28, 2026
+**Last updated:** March 31, 2026
 
 ---
 
@@ -32,7 +32,8 @@ This is the project's working intellectual ledger. It records cross-framework co
 **Domestic dimension (Day 17):** FCC license threats, information management costs = the ratchet operating inward on domestic populations. The simulation must be maintained against both adversary and domestic audience simultaneously.  
 **Self-consumption (Day 21):** US Treasury authorizes sale of 140M barrels of stranded Iranian oil to suppress domestic fuel prices of its own bombing campaign. Bessent: "using Iranian barrels against Iranians." WaPo: "giving Iran's war effort a boost." Both accurate simultaneously. The hegemon is now financing both sides of the war to manage the domestic cost of its own simulacrum. **This is the ratchet's strongest empirical instance.**  
 **Force-posture dimension (Day 23/25):** US missile defense systems redeployed from South Korea to Middle East; 82nd Airborne redeployed from Pacific theater. Pacific capacity hollowed to sustain Middle East simulacrum. The ratchet now operates not just in narrative and domestic registers but in material force allocation — robbing one theater to maintain the appearance of capacity in another.  
-**Draft section:** See `The_Simulacrum-Capacity_Ratchet___Thesis_Section_Draft.md` — needs updating for bilateral, domestic, self-consumption, and force-posture extensions.
+**Epistemic dimension (March 31):** Hudson and Keen's intentionality disagreement — "they gamed it out" vs. "idiocy not conspiracy" — resolves into: planning conducted within a broken epistemic system. Junk economics (no energy inputs, no private debt, single-good DSGE models) means the planning apparatus cannot model the consequences of its own actions. The self-consumption dynamic (Iranian oil financing the war against Iran) is the proof case — not a cynical contradiction recognized internally but a policy move that made sense within the available models. The ratchet doesn't just widen the capacity gap; it progressively degrades the hegemon's ability to model its own effects. This is what "junk economics running the planet" produces at operational scale: real intention, systematically miscalculated consequences.  
+**Draft section:** See `The_Simulacrum-Capacity_Ratchet___Thesis_Section_Draft.md` — needs updating for bilateral, domestic, self-consumption, force-posture, and epistemic extensions.
 
 ### 4. Fourth Political Formula
 **Origin:** Day 9 briefing; extends Calleo's three monetary formulas  
@@ -113,6 +114,24 @@ This is the project's working intellectual ledger. It records cross-framework co
 **Implications for S4 hypothesis:** Competitive regional hegemonies don't need to provide public goods to hold structural power — they only need veto capacity over regional chokepoints. This dramatically lowers the capability threshold for regional hegemony, making the S4 scenario more structurally accessible than a pure provision-theory reading would suggest.  
 **Relationship to Acharya:** Conditional provision is a multiplex governance form — Iran is administering access as a diplomatic instrument rather than exercising binary closure. The Hormuz parliamentary legislation (Mar 27) is the institutionalization of this cartel governance claim.
 
+### 17. Tripartite Inflation-Deflation-Hyperinflation Differentiation by Debt Structure
+**Origin:** Hudson/Keen David Graeber Institute interview, March 31, 2026  
+**Statement:** The macroeconomic transmission of energy weaponization does not produce a unified "inflation" event — it differentiates into three simultaneous channels determined by debt structure:
+
+1. **Inflation** in energy/food inputs globally — the price of anything that requires oil, gas, helium, or fertilizer to produce.
+2. **Deflation** in heavily privately-indebted economies (US, Europe) — Fisher's paradox: when workers and industrial corporations can no longer service existing debts under energy-cost pressure, they cut prices to attract customers; competitors do the same; price level falls; real debt burden rises; deflationary spiral deepens. The more debt is paid, the more they owe.
+3. **Hyperinflation** in Global South states with dollar-denominated foreign debt — unable to earn enough hard currency to service the debt, governments print domestic currency and dump it on FX markets to buy dollars. This is not social-spending hyperinflation; it is FX-pressure hyperinflation. Historical precedents: Weimar, post-WWII France, Chile, Yugoslavia — all foreign-debt-driven. The IMF austerity prescription (lower labor costs to service debt) accelerates the spiral.
+
+**China exception:** Public credit as a utility (not financialized), no financial class to capture rent streams, grain reserves (~1.5 years), petroleum stocks, solar/nuclear buildout. None of the three channels operative. This is rent-avoidance at civilizational timescale — the opium war lesson institutionalized structurally, not just as policy.
+
+**Yuan Hormuz toll as structural circuit-breaker:** Yuan-denominated energy trade is not monetary symbolism — it is a direct escape route from the dollar-trap hyperinflation mechanism for Global South states with access to yuan-denominated settlement. The IRGC toll (26 ships since March 13) is therefore not just a financial architecture development but a humanitarian circuit-breaker for the third channel.
+
+**Fertilizer-famine chain as Turchin accelerant:** The Haber-Bosch process (WWI invention) converts petroleum and atmospheric nitrogen into ammonia fertilizer. Pre-Haber-Bosch carrying capacity: 1–2 billion people. Current global population: 8 billion. A 20% fall in fertilizer production → food production falls by more than 20% → the threshold at which popular immiseration activates political instability is crossed well before any population-level catastrophe occurs. Per Turchin's secular cycles: popular immiseration → political instability → state fragility → elite fracture. Per Polanyi's double movement: when market dynamics (energy weaponization) destroy the subsistence layer, counter-movements are structural, not optional. Per Kindleberger's absent stabilizer: the hegemon that once provided food-system stability as a public good is now the source of its active destabilization. The specific population projections require independent sourcing — the structural argument does not. Any significant food-system disruption at global scale triggers these mechanisms.
+
+**Thesis implication:** S3 (systemic chaos) is now supported by three convergent analytical layers — geopolitical/institutional, macroeconomic/debt-structure, and biophysical/subsistence. The differentiation also sharpens S1 vs. S3 indeterminacy: whether China's circuit-breaking (yuan toll, Islamabad track, grain/petroleum reserves) contains the Global South hyperinflation and immiseration channels below the Turchin threshold is precisely what separates S1 from deepening S3.
+
+**Relationship to other items:** Connects to Item 5 (Kindleberger Inverted Stabilizer — now weaponized in food domain); Item 4 (Fourth Political Formula — dollar weaponization produces the hyperinflation channel as structural consequence); Item 3 epistemic dimension (the channel was invisible to junk-economics planning models); Section III Item 2 (Energy/Information as ontological co-primitives — Keen's energy-GDP data, ~1:1 correlation, provides empirical grounding).
+
 ---
 
 ## Section II: Cross-Framework Inversions and Connections
@@ -164,7 +183,8 @@ This is the project's working intellectual ledger. It records cross-framework co
 
 ### Energy/Information as Ontological Co-Primitives
 **Origin:** Flagged in thesis development  
-**Statement:** Labor and capital may be derivative expressions of two more fundamental inputs: energy and information. This connects Keen's biophysical economics, Weber's inflation mechanism, and Shannon/Boltzmann thermodynamics. Flagged as open thread — not forced to resolution.
+**Statement:** Labor and capital may be derivative expressions of two more fundamental inputs: energy and information. This connects Keen's biophysical economics, Weber's inflation mechanism, and Shannon/Boltzmann thermodynamics. Flagged as open thread — not forced to resolution.  
+**Empirical grounding (March 31):** Keen's energy-GDP isomorphism — near-1:1 correlation between energy change and GDP change globally — provides the empirical anchor. "Labor without energy is a corpse; capital without energy is a sculpture." See Graeber Institute interview. Connects to Item 17 (tripartite differentiation): the biophysical substrate is what makes the three channels materially real, not just financial constructs.
 
 ### Quantum Encryption as Structural Producer of the Multiplex
 **Origin:** Flagged in thesis development  

@@ -31,6 +31,7 @@ A long-form analytical thesis synthesizing eleven theorists into an integrated f
 | Document | Purpose |
 |---|---|
 | **Hudson_and_Mearsheimer_on_the_Iran_War_2026.md** | Hudson's structural-determinist and Mearsheimer's agential-trap readings of Epic Fury; core tension mapped to thesis framework |
+| **Hudson_and_Keen_at_the_Graeber_Institute_2026.md** | Hudson/Keen macroeconomic analysis of Epic Fury at David Graeber Institute; tripartite inflation/deflation/hyperinflation differentiation by debt structure; energy-GDP isomorphism; fertilizer-famine as Turchin accelerant; intentionality tension resolved via Ratchet epistemic dimension |
 
 Note: This tier covers commentary by named analysts on the live case studies. Distinct from Tier 3 source summaries (which document framework theorists' primary works) and Tier 4 thematic analyses (which develop original synthesis). Add future analyst commentary documents here before they accumulate without indexing.
 
